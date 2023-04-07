@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\initialdata\CatalogSampleData.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\initialdata\CategorySampleData.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\initialdata\CronJobSampleData.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\initialdata\ProductFeatureSampleData.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\initialdata\ProductSampleData.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\PcmAutoConfiguration.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\PcmConfiguration.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\repository\AttributeRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\repository\AttributeTemplateRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\repository\AttributeUnitRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\repository\CatalogRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\repository\CategoryRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\repository\DiscountRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\repository\DiscountRowRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\repository\PriceRowRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\repository\ProductDiscountGroupRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\repository\ProductFeatureRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\repository\ProductPriceGroupRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\repository\ProductRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\repository\ProductTaxGroupRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\repository\StockRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\repository\SyncLogRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\repository\TaxRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\repository\TaxRowRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\repository\VariantProductRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\repository\VariationOptionRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\repository\VariationRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\service\CatalogService.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\service\impl\CatalogServiceImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\service\impl\ProductServiceImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\service\impl\SyncLogServiceImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\service\impl\VariationServiceImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\service\ProductService.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\service\SyncLogService.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\service\VariationService.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\sync\fetch\service\FetchService.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\sync\fetch\strategy\AbstractFetchStrategy.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\sync\push\exception\FailedDataCreationException.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\sync\push\exception\FailedDataDeletionException.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\sync\push\exception\UntrackedDataDeletionException.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\sync\push\handler\AbstractEventHandler.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\sync\push\handler\VariationEventHandler.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\sync\push\job\SynchronizationLogCleanJob.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\sync\push\job\SynchronizationRetryJob.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\sync\push\PushResult.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\sync\push\service\PushService.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\pcm\src\main\java\digi\ecomm\pcm\sync\push\strategy\VariationPushStrategy.java">
+</file>
+</checkstyle>

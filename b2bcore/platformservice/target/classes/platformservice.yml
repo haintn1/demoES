@@ -1,0 +1,98 @@
+spring:
+  datasource:
+    url:
+    username:
+    password:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    hikari:
+      autoCommit: true
+      # The maximum number of milliseconds that a client will wait for a connection from the pool. If this time exceeds without a connection becoming available, a SQLException will be thrown
+      connection-timeout: 50000
+      # The maximum amount of time that a connection is allowed to sit idle in the pool. A value of 0 means that idle connections are never removed from the pool
+      idle-timeout: 300000
+      # Maximum lifetime of a connection in the pool
+      max-lifetime: 900000
+      # The maximum size that the pool is allowed to reach, including both idle and in-use connections. Basically this value will determine the maximum number of actual connections to the database backend
+      maximum-pool-size: 10
+      # The minimum number of idle connections that HikariCP tries to maintain in the pool. If the idle connections dip below this value and total connections in the pool are less than maximumPoolSize, HikariCP will make a best effort to add additional connections quickly and efficiently
+      minimum-idle: 10
+      pool-name: B2B_DS
+  sql:
+    init:
+      platform: mysql
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL8Dialect
+    hibernate:
+      ddl-auto: update
+      naming.physical-strategy: org.hibernate.boot.model.naming.CamelCaseToUnderscoresNamingStrategy
+    open-in-view: false
+    properties:
+      hibernate:
+        jdbc:
+          batch_size: 5
+        order_inserts: true
+        order_updates: true
+        batch_versioned_data: true
+  data:
+    rest:
+      base-path: /
+      default-media-type: application/json
+      default-page-size: 20
+      page-param-name: currentPage
+      limit-param-name: pageSize
+      sort-param-name: sort
+      return-body-on-create: true
+      return-body-on-update: true
+  quartz:
+    auto-startup: true
+    scheduler-name: Platform job scheduler
+    job-store-type: jdbc
+    jdbc:
+      initialize-schema: always
+      schema: classpath:db/quartz_tables_@@platform@@.sql
+      platform: ${spring.sql.init.platform}
+    properties:
+      org:
+        quartz:
+          scheduler:
+            instanceId: AUTO
+          threadPool:
+            class: org.quartz.simpl.SimpleThreadPool
+            threadCount: 25
+            threadPriority: 5
+          jobStore:
+            tablePrefix: QRTZ_
+            misfireThreshold: 1000
+            useProperties: true
+            isClustered: true
+            clusterCheckinInterval: 1000
+
+# One of logging libraries (slf4j, jul, common, sysout)
+decorator:
+  datasource:
+    datasource-proxy:
+      logging: slf4j
+      query:
+        enable-logging: false
+        log-level: DEBUG
+        # Logger name to log all queries, default depends on chosen logging, e.g. net.ttddyy.dsproxy.listener.logging.SLF4JQueryLoggingListener
+        logger-name: net.ttddyy.dsproxy
+      slow-query:
+        enable-logging: true
+        log-level: WARN
+        logger-name: net.ttddyy.dsproxy
+        # Number of seconds to consider query as slow and log it
+        threshold: 1
+      multiline: true
+      json-format: false
+      # Enable Query Metrics
+      count-query: false
+
+platform:
+  initialdata:
+    core:
+      auto-import: false
+    sample:
+      auto-import: false
+  media:
+    rootDir: ./medias

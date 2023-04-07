@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\aspect\LoggingAspect.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\controller\ProductIndexController.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\controller\ProductSearchController.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\cronjob\impl\IndexingCronjobSampleData.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\exception\handler\RestResponseEntityExceptionHandler.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\exception\RequestParameterException.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\exception\WebserviceException.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\facade\impl\ProductIndexFacadeImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\facade\impl\ProductSearchFacadeImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\facade\ProductIndexFacade.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\facade\ProductSearchFacade.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\facade\SearchQueryCodec.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\populator\ProductSearchFacetResponsePopulator.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\populator\ProductSearchResponsePopulator.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\populator\ProductSearchSortResponsePopulator.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\populator\ProductSuggestionResponsePopulator.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\provider\impl\PriceGroupAwareFieldNameProvider.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\provider\impl\PriceGroupAwareSortFieldNameProvider.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\provider\populator\IndexedProductPopulator.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\SearchStandardApiAutoConfiguration.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\SearchStandardApiConfiguration.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\strategy\SearchQueryCodecImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\strategy\StaticProductFacetSearchConfigSelectionStrategyImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\sync\job\ProductFullIndexingJob.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\searchstandardapi\src\main\java\digi\ecomm\searchstandardapi\WebSecurityConfiguration.java">
+</file>
+</checkstyle>

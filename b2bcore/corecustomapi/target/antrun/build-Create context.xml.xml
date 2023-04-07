@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="maven-antrun-" default="Create context.xml">
+  <target name="Create context.xml">
+    <touch file="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\corecustomapi\target/context.xml" />
+    <echo file="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\corecustomapi\target/context.xml" append="false">&lt;Context antiResourceLocking="true"/></echo>
+  </target>
+</project>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\user\src\main\java\digi\ecomm\user\config\JwtAuthenticationFilter.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\user\src\main\java\digi\ecomm\user\config\JwtTokenProvider.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\user\src\main\java\digi\ecomm\user\config\WebSecurityConfig.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\user\src\main\java\digi\ecomm\user\controller\TestController.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\user\src\main\java\digi\ecomm\user\repository\AddressRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\user\src\main\java\digi\ecomm\user\repository\EmployeeRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\user\src\main\java\digi\ecomm\user\repository\PrincipalRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\user\src\main\java\digi\ecomm\user\repository\TitleRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\user\src\main\java\digi\ecomm\user\repository\UserDiscountGroupRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\user\src\main\java\digi\ecomm\user\repository\UserGroupRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\user\src\main\java\digi\ecomm\user\repository\UserPriceGroupRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\user\src\main\java\digi\ecomm\user\repository\UserRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\user\src\main\java\digi\ecomm\user\repository\UserTaxGroupRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\user\src\main\java\digi\ecomm\user\request\LoginRequest.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\user\src\main\java\digi\ecomm\user\response\LoginResponse.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\user\src\main\java\digi\ecomm\user\service\UserService.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\user\src\main\java\digi\ecomm\user\UserAutoConfiguration.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\user\src\main\java\digi\ecomm\user\UserConfiguration.java">
+</file>
+</checkstyle>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\c2l\C2LConfiguration.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\c2l\C2LCoreData.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\c2l\repository\CountryRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\c2l\repository\CurrencyRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\c2l\repository\LanguageRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\c2l\repository\RegionRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\c2l\service\CommonI18NService.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\c2l\service\impl\CommonI18NServiceImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\converter\ConversionException.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\converter\Converter.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\converter\impl\GenericConverter.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\converter\Populator.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\cronjob\controller\CronJobController.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\cronjob\CronJobConfiguration.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\cronjob\exception\InvalidCronJobException.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\cronjob\exception\ScheduleJobException.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\cronjob\facade\CronJobFacade.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\cronjob\facade\impl\CronJobFacadeImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\cronjob\interceptor\CronJobLoadInterceptor.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\cronjob\job\AbstractCronJob.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\cronjob\job\CronJobFactory.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\cronjob\job\JobScheduleCreator.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\cronjob\listener\JobStateListener.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\cronjob\repository\CronJobRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\cronjob\service\CronJobService.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\cronjob\service\impl\CronJobServiceImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\email\repository\EmailAddressRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\email\repository\EmaiMessageRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\enumeration\EnumEntityRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\event\AbstractEvent.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\exception\AmbiguousIdentifierException.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\exception\UnknownIdentifierException.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\initialdata\InitialDataConfiguration.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\initialdata\setup\CoreDataCreator.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\initialdata\setup\InitialDataBeanPostProcessor.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\initialdata\setup\InitialDataSetup.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\initialdata\setup\SampleDataCreator.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\media\MediaConfiguration.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\media\repository\MediaRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\media\service\impl\MediaServiceImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\media\service\MediaService.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\persistent\hibernate\HibernatePropertiesCustomization.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\persistent\interceptor\DeleteInterceptor.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\persistent\interceptor\GenericEntityInterceptor.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\persistent\interceptor\Interceptor.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\persistent\interceptor\InterceptorContext.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\persistent\interceptor\InterceptorException.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\persistent\interceptor\InterceptorMappingBeanPostProcessor.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\persistent\interceptor\LoadInterceptor.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\persistent\interceptor\PrepareInterceptor.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\persistent\interceptor\ValidateInterceptor.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\persistent\PersistentConfiguration.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\persistent\repository\BaseRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\persistent\repository\impl\BaseRepositoryImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\persistent\service\EntityService.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\persistent\service\impl\EntityServiceImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\persistent\specification\GenericSpecification.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\persistent\specification\NotSupportQueryOperation.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\persistent\specification\QueryCriteria.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\persistent\specification\QueryOperation.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\PlatformProperties.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\PlatformServiceAutoConfiguration.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\PlatformServiceConfiguration.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\rest\springdata\AssociationSaveException.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\rest\springdata\BaseRepositoryRestController.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\rest\springdata\CustomRepositoryRestConfigurer.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\rest\springdata\EnhancedDomainObjectReader.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\rest\springdata\hal\CollectionSerializer.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\rest\springdata\hal\EntityModelProcessor.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\rest\springdata\hal\HalObjectMapperBeanPostProcessor.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\rest\springdata\hal\PersistentEntityResourceWrapper.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\rest\springdata\hal\RepresentationModelResponseBodyAdvice.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\rest\springdata\hal\ResponseBodyAdviceBeanPostProcessor.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\rest\springdata\hal\SimplePagedModel.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\rest\springdata\hal\SimplePagedModelMixin.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\rest\springdata\PersistentEntityResourceBeanPostProcessor.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\rest\springdata\RepositoryPropertyReferenceControllerAspect.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\rest\springdata\RepositoryRestSupportConfiguration.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\rest\springdata\serialization\LocalizableEntityMixin.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\rest\springdata\serialization\LocalizableEntityModule.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\swagger\SwaggerPlatformConfiguration.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\template\repository\DocumentTemplateRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\util\BeanUtils.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\util\ServicesUtils.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\web\impl\RequestAttributeServiceImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\web\interceptor\L10NDetectInterceptor.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\web\L10NWebConfiguration.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\web\RequestAttributeService.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\platformservice\src\main\java\digi\ecomm\platformservice\yml\YamlPropertySourceFactory.java">
+</file>
+</checkstyle>

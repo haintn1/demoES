@@ -1,0 +1,17 @@
+digi\ecomm\elasticpathpcm\EpPcmAutoConfiguration.class
+digi\ecomm\elasticpathpcm\sync\fetch\EpPageableFetchResult.class
+digi\ecomm\elasticpathpcm\initialdata\EpCronJobSampleData.class
+digi\ecomm\elasticpathpcm\sync\fetch\job\SyncFetchJob.class
+digi\ecomm\elasticpathpcm\api\impl\ApiContextFactoryImpl.class
+digi\ecomm\elasticpathpcm\api\ApiContextAspect.class
+digi\ecomm\elasticpathpcm\api\ApiContextAware$InjectApiContext.class
+digi\ecomm\elasticpathpcm\api\ApiContextAware.class
+digi\ecomm\elasticpathpcm\sync\fetch\strategy\EpVariationOptionFetchStrategy.class
+digi\ecomm\elasticpathpcm\EpPcmConfiguration.class
+digi\ecomm\elasticpathpcm\api\ApiContextFactory.class
+digi\ecomm\elasticpathpcm\sync\push\strategy\EpVariationPushStrategy.class
+digi\ecomm\elasticpathpcm\sync\fetch\strategy\EpProductFetchStrategy.class
+digi\ecomm\elasticpathpcm\sync\fetch\service\impl\EpFetchServiceImpl.class
+digi\ecomm\elasticpathpcm\sync\fetch\strategy\EpVariationFetchStrategy.class
+digi\ecomm\elasticpathpcm\EpProperties.class
+digi\ecomm\elasticpathpcm\EpProperties$Api.class

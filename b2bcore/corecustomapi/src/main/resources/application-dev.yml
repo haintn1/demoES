@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/b2b_platform
+    username: root
+    password: root
+
+platform:
+  initialdata:
+    core:
+      auto-import: true
+    sample:
+      auto-import: true
+
+

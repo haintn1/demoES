@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/basecommerce/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commerceentity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commercesearch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/corecustomapi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/corestandardapi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/datatransferobject/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elasticpathpcm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elasticpathsdk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/entity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pcm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platformservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/searchcustomapi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/searchentity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/searchstandardapi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user/src/main/java" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\corestandardapi\src\main\java\digi\ecomm\corestandardapi\CoreStandardApiAutoConfiguration.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\corestandardapi\src\main\java\digi\ecomm\corestandardapi\CoreStandardApiConfiguration.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\corestandardapi\src\main\java\digi\ecomm\corestandardapi\HealthCheckController.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\corestandardapi\src\main\java\digi\ecomm\corestandardapi\web\WebSecurityConfiguration.java">
+</file>
+</checkstyle>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\BaseCommerceAutoConfiguration.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\BaseCommerceConfiguration.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\BaseCommerceProperties.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\oms\repository\CartEntryRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\oms\repository\CartRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\oms\repository\OrderEntryRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\oms\repository\OrderRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\oms\repository\QuoteEntryRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\oms\repository\QuoteRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\organization\repository\B2BBudgetRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\organization\repository\B2BCostCenterRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\organization\repository\B2BCustomerRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\organization\repository\B2BOrderThresholdRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\organization\repository\B2BPermissionRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\organization\repository\B2BQuoteLimitRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\organization\repository\B2BUnitRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\organization\repository\CompanyRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\organization\repository\CustomerRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\payment\repository\CreditCardPaymentInfoRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\payment\repository\DeditCardPaymentInfoRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\payment\repository\InvoicePaymentInfoRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\payment\repository\PaymentInfoRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\payment\repository\PaymentTransactionEntryRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\payment\repository\PaymentTransactionRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\promotion\repository\PromotionGroupRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\promotion\repository\PromotionPriceRowRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\promotion\repository\PromotionRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\promotion\repository\PromotionRestrictionRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\store\repository\BaseStoreRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\store\repository\OpeningScheduleRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\store\repository\PointOfServiceRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\basecommerce\src\main\java\digi\ecomm\basecommerce\store\repository\WarehouseRepository.java">
+</file>
+</checkstyle>

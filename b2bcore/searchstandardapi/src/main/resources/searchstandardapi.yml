@@ -1,0 +1,4 @@
+search:
+  product:
+    config-name: SF_PRODUCTS
+    index-endpoint: http://localhost:8080/ep/sf/index/products

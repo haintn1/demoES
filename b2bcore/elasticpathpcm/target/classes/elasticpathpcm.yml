@@ -1,0 +1,11 @@
+ep:
+  api:
+    base-url:
+    client-id:
+    client-secret:
+    # The timeout in milliseconds until a connection is established.
+    connectTimeout: 5000
+    # The socket timeout ({@code SO_TIMEOUT}) in milliseconds,
+    # which is the timeout for waiting for data or, put differently,
+    # a maximum period inactivity between two consecutive data packets
+    socketTimeout: 5000

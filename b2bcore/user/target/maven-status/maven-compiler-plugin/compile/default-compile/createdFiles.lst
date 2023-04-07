@@ -1,0 +1,16 @@
+digi\ecomm\user\repository\PrincipalRepository.class
+digi\ecomm\user\repository\UserRepository.class
+digi\ecomm\user\repository\UserDiscountGroupRepository.class
+digi\ecomm\user\UserAutoConfiguration.class
+digi\ecomm\user\repository\UserTaxGroupRepository.class
+digi\ecomm\user\config\JwtTokenProvider.class
+digi\ecomm\user\repository\AddressRepository.class
+digi\ecomm\user\request\LoginRequest.class
+digi\ecomm\user\UserConfiguration.class
+digi\ecomm\user\repository\EmployeeRepository.class
+digi\ecomm\user\repository\TitleRepository.class
+digi\ecomm\user\response\LoginResponse.class
+digi\ecomm\user\repository\UserGroupRepository.class
+digi\ecomm\user\service\UserService.class
+digi\ecomm\user\config\JwtAuthenticationFilter.class
+digi\ecomm\user\repository\UserPriceGroupRepository.class

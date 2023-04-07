@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\AbstractAttributeConverter.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\AbstractEntity.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\AbstractEntityProjection.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\c2l\C2LItem.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\c2l\C2LL10NAugmentation.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\c2l\Country.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\c2l\CountryL10NAugmentation.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\c2l\Currency.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\c2l\CurrencyL10NAugmentation.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\c2l\Language.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\c2l\LanguageL10NAugmentation.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\c2l\Region.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\c2l\RegionL10NAugmentation.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\catalog\Catalog.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\catalog\Catalog10NAugmentation.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\catalog\CatalogVersion.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\Constants.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\cronjob\CronJob.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\cronjob\JobState.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\email\EmailAddress.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\email\EmailAttachment.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\email\EmailMessage.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\EntityAutoConfiguration.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\EnumEntity.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\EnumEntity10NAugmentation.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\EnumValue.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\index\IndexCronJob.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\L10NAugmentationByteCodeEnhancer.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\localized\AbstractL10NAugmentation.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\localized\LocalizableAugmentation.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\localized\LocalizableEntity.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\localized\LocalizedId.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\media\ExternalHostedMedia.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\media\Media.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\media\MediaFolder.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\sync\ActionType.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\sync\SynchronizableEntity.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\sync\SynchronizationEmbedding.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\sync\SyncLog.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\template\converter\TemplateTypeConverter.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\template\DocumentTemplate.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\template\TemplateType.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\user\Address.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\user\Employee.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\user\Gender.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\user\Principal.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\user\Title.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\user\User.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\user\UserDiscountGroup.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\user\UserGroup.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\user\UserPriceGroup.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\entity\src\main\java\digi\ecomm\entity\user\UserTaxGroup.java">
+</file>
+</checkstyle>

@@ -1,0 +1,6 @@
+<FindBugsFilter>
+    <Match>
+        <Package name="~digi.ecomm.*"/>
+        <Bug category="SECURITY,PERFORMANCE,CORRECTNESS,MT_CORRECTNESS,BAD_PRACTICE,STYLE"/>
+    </Match>
+</FindBugsFilter>

@@ -1,0 +1,25 @@
+server:
+  port: 8082
+  servlet:
+    context-path: /api
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/dmsi_ss2_uat
+    username: dmsi
+    password: dmsI@123$
+  jpa:
+    show-sql: true
+
+platform:
+  initialdata:
+    core:
+      auto-import: true
+    sample:
+      auto-import: true
+
+search:
+  product:
+    config-name: ENTERPRISE_PRODUCTS
+    index-endpoint: https://dmsi-uat.digicommerce.xyz/dmsi/index/products
+

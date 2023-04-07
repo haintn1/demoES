@@ -1,0 +1,5 @@
+2022-10-15 10:18:36,502 WARN  [pool-1-thread-1] net.ttddyy.dsproxy.support.SLF4JLogUtils: 
+Name:B2B_DS, Connection:317, Time:838119, Success:False
+Type:Prepared, Batch:False, QuerySize:1, BatchSize:0
+Query:["SELECT * FROM QRTZ_SCHEDULER_STATE WHERE SCHED_NAME = 'schedulerFactoryBean'"]
+Params:[()]

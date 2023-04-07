@@ -1,0 +1,12 @@
+<configuration>
+    <springProfile name="local">
+        <property name="APP_LOG_ROOT" value="./logs"/>
+    </springProfile>
+
+    <springProfile name="!local">
+        <property name="APP_LOG_ROOT" value="${catalina.base}/logs"/>
+    </springProfile>
+
+    <include resource="platform-logback.xml"/>
+    <include resource="ep-logback.xml"/>
+</configuration>

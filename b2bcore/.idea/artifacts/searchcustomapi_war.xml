@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="searchcustomapi:war">
+    <output-path>$PROJECT_DIR$/searchcustomapi/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>searchcustomapi</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="api.war">
+      <element id="artifact" artifact-name="searchcustomapi:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,5 @@
+2022-10-16 12:37:39,302 WARN  [pool-1-thread-1] net.ttddyy.dsproxy.support.SLF4JLogUtils: 
+Name:B2B_DS, Connection:60082, Time:53454493, Success:False
+Type:Prepared, Batch:False, QuerySize:1, BatchSize:0
+Query:["UPDATE QRTZ_SCHEDULER_STATE SET LAST_CHECKIN_TIME = ? WHERE SCHED_NAME = 'schedulerFactoryBean' AND INSTANCE_NAME = ?"]
+Params:[(1665845204627,LAPTOP-F3OP9A9T1665807415104)]

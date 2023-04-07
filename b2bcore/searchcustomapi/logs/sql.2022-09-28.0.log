@@ -1,0 +1,10 @@
+2022-09-28 14:21:00,321 WARN  [pool-1-thread-1] net.ttddyy.dsproxy.support.SLF4JLogUtils: 
+Name:B2B_DS, Connection:870, Time:2912, Success:False
+Type:Prepared, Batch:False, QuerySize:1, BatchSize:0
+Query:["SELECT COUNT(TRIGGER_NAME) FROM QRTZ_TRIGGERS WHERE SCHED_NAME = 'schedulerFactoryBean' AND NOT (MISFIRE_INSTR = -1) AND NEXT_FIRE_TIME < ? AND TRIGGER_STATE = ?"]
+Params:[(1664349656118,WAITING)]
+2022-09-28 16:12:49,810 WARN  [pool-1-thread-1] net.ttddyy.dsproxy.support.SLF4JLogUtils: 
+Name:B2B_DS, Connection:8235, Time:1852, Success:False
+Type:Prepared, Batch:False, QuerySize:1, BatchSize:0
+Query:["UPDATE QRTZ_SCHEDULER_STATE SET LAST_CHECKIN_TIME = ? WHERE SCHED_NAME = 'schedulerFactoryBean' AND INSTANCE_NAME = ?"]
+Params:[(1664356367948,LAPTOP-F3OP9A9T1664351995742)]

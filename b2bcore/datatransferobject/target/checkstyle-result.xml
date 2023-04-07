@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\datatransferobject\src\main\java\digi\ecomm\datatransferobject\AbstractResponse.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\datatransferobject\src\main\java\digi\ecomm\datatransferobject\EmptyResponse.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\datatransferobject\src\main\java\digi\ecomm\datatransferobject\ListResultResponse.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\datatransferobject\src\main\java\digi\ecomm\datatransferobject\Pageable.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\datatransferobject\src\main\java\digi\ecomm\datatransferobject\PageableResponse.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\datatransferobject\src\main\java\digi\ecomm\datatransferobject\product\response\AttributeValueProp.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\datatransferobject\src\main\java\digi\ecomm\datatransferobject\product\response\B2bProduct.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\datatransferobject\src\main\java\digi\ecomm\datatransferobject\product\response\CategoryProps.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\datatransferobject\src\main\java\digi\ecomm\datatransferobject\product\response\ItemUOM.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\datatransferobject\src\main\java\digi\ecomm\datatransferobject\product\response\PriceProps.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\datatransferobject\src\main\java\digi\ecomm\datatransferobject\product\response\VariationProps.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\datatransferobject\src\main\java\digi\ecomm\datatransferobject\search\AbstractIndexedSourceItem.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\datatransferobject\src\main\java\digi\ecomm\datatransferobject\search\response\ProductDeleteResponse.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\datatransferobject\src\main\java\digi\ecomm\datatransferobject\search\response\ProductFullIndexResponse.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\datatransferobject\src\main\java\digi\ecomm\datatransferobject\search\response\ProductSearchResponse.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\datatransferobject\src\main\java\digi\ecomm\datatransferobject\search\response\ProductSuggestionResponse.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\datatransferobject\src\main\java\digi\ecomm\datatransferobject\search\response\ProductUpdateResponse.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\datatransferobject\src\main\java\digi\ecomm\datatransferobject\search\response\SearchFacet.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\datatransferobject\src\main\java\digi\ecomm\datatransferobject\search\response\SearchSort.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\datatransferobject\src\main\java\digi\ecomm\datatransferobject\SingleResultResponse.java">
+</file>
+</checkstyle>

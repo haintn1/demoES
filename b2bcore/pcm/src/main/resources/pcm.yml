@@ -1,0 +1,4 @@
+pcm:
+  sync:
+    outbound:
+      max-retry: 3

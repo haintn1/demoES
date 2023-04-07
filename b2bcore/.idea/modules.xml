@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/b2bcore.iml" filepath="$PROJECT_DIR$/b2bcore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basecommerce/basecommerce.iml" filepath="$PROJECT_DIR$/basecommerce/basecommerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commerceentity/commerceentity.iml" filepath="$PROJECT_DIR$/commerceentity/commerceentity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commercesearch/commercesearch.iml" filepath="$PROJECT_DIR$/commercesearch/commercesearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/corecustomapi/corecustomapi.iml" filepath="$PROJECT_DIR$/corecustomapi/corecustomapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/corestandardapi/corestandardapi.iml" filepath="$PROJECT_DIR$/corestandardapi/corestandardapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datatransferobject/datatransferobject.iml" filepath="$PROJECT_DIR$/datatransferobject/datatransferobject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elasticpathpcm/elasticpathpcm.iml" filepath="$PROJECT_DIR$/elasticpathpcm/elasticpathpcm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elasticpathsdk/elasticpathsdk.iml" filepath="$PROJECT_DIR$/elasticpathsdk/elasticpathsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/entity/entity.iml" filepath="$PROJECT_DIR$/entity/entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oms/oms.iml" filepath="$PROJECT_DIR$/oms/oms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pcm/pcm.iml" filepath="$PROJECT_DIR$/pcm/pcm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platformservice/platformservice.iml" filepath="$PROJECT_DIR$/platformservice/platformservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchcustomapi/searchcustomapi.iml" filepath="$PROJECT_DIR$/searchcustomapi/searchcustomapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchentity/searchentity.iml" filepath="$PROJECT_DIR$/searchentity/searchentity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchstandardapi/searchstandardapi.iml" filepath="$PROJECT_DIR$/searchstandardapi/searchstandardapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user/user.iml" filepath="$PROJECT_DIR$/user/user.iml" />
+    </modules>
+  </component>
+</project>

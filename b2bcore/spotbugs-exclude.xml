@@ -1,0 +1,39 @@
+<FindBugsFilter>
+    <Match>
+        <Class name="~digi.ecomm.*.BaseRepositoryImpl"/>
+        <Bug pattern="SQL_INJECTION_JPA"/>
+    </Match>
+
+    <Match>
+        <Class name="digi.ecomm.entity.AbstractEntity"/>
+        <Bug pattern="BC_EQUALS_METHOD_SHOULD_WORK_FOR_ALL_OBJECTS"/>
+    </Match>
+
+    <Match>
+        <Class name="digi.ecomm.searchstandardapi.populator.ProductSuggestionResponsePopulator$SuggestText"/>
+        <Bug pattern="EQ_COMPARETO_USE_OBJECT_EQUALS"/>
+    </Match>
+
+    <Match>
+        <Class name="~digi.ecomm.*.RepositoryPropertyReferenceControllerAspect"/>
+        <Bug pattern="NP_NULL_ON_SOME_PATH_FROM_RETURN_VALUE"/>
+    </Match>
+
+    <Match>
+        <Class name="digi.ecomm.searchstandardapi.populator.ProductSearchResponsePopulator"/>
+        <Bug pattern="NP_NULL_ON_SOME_PATH_FROM_RETURN_VALUE"/>
+    </Match>
+
+    <Match>
+        <Package name="~digi.ecomm.entity.*"/>
+        <Bug pattern="RI_REDUNDANT_INTERFACES,NP_NULL_ON_SOME_PATH_FROM_RETURN_VALUE,SE_TRANSIENT_FIELD_NOT_RESTORED,
+            NM_CONFUSING,EC_UNRELATED_TYPES_USING_POINTER_EQUALITY"/>
+    </Match>
+
+    <Match>
+        <Package name="~digi.ecomm.*"/>
+        <Bug pattern="CRLF_INJECTION_LOGS,URF_UNREAD_FIELD,UWF_FIELD_NOT_INITIALIZED_IN_CONSTRUCTOR,SERVLET_HEADER,
+            SPRING_ENDPOINT,SE_BAD_FIELD,SPRING_CSRF_PROTECTION_DISABLED,SIC_INNER_SHOULD_BE_STATIC_NEEDS_THIS,
+            SIC_INNER_SHOULD_BE_STATIC,ST_WRITE_TO_STATIC_FROM_INSTANCE_METHOD,UPM_UNCALLED_PRIVATE_METHOD,SS_SHOULD_BE_STATIC"/>
+    </Match>
+</FindBugsFilter>

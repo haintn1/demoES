@@ -1,0 +1,4 @@
+digi\ecomm\corestandardapi\CoreStandardApiAutoConfiguration.class
+digi\ecomm\corestandardapi\CoreStandardApiConfiguration.class
+digi\ecomm\corestandardapi\HealthCheckController.class
+digi\ecomm\corestandardapi\web\WebSecurityConfiguration.class

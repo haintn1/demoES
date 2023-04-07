@@ -1,0 +1,30 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /api
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/b2b_platform
+    username: root
+    password: root
+  jpa:
+    show-sql: true
+
+springdoc:
+  swagger-ui:
+    url: /api-docs.yaml
+
+platform:
+  initialdata:
+    core:
+      auto-import: true
+    sample:
+      auto-import: true
+
+ep:
+  api:
+    base-url: https://api.moltin.com
+    client-id: Y7i2NgihCmXAhHsa9FtIr9fjXMd2F8LBPHh2FA9tvx
+    client-secret: C9ks6nPZwyJyqIr4uAog1gTtqFyF9Ayl3TaTFst7Fe
+

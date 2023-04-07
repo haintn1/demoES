@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\client\EsClientFactory.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\client\EsContext.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\client\EsContextFactory.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\client\impl\EsClientFactoryImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\client\impl\EsContextFactoryImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\CommerceSearchAutoConfiguration.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\CommerceSearchConfiguration.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\data\IndexedPropertyGroup.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\exception\NoValidElasticsearchConfigException.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\index\data\Analyzer.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\index\data\FilterType.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\index\data\IndexAnalysis.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\index\data\IndexAnalyzer.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\index\data\IndexFilter.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\index\data\StopWordFilter.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\index\data\Synonym.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\index\data\SynonymFilter.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\index\data\TokenFilter.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\index\data\Tokenizer.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\index\data\ToMap.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\index\exception\FacetConfigServiceException.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\index\exception\FieldValueProviderException.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\index\provider\data\IndexedProduct.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\index\provider\FieldValueProvider.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\index\provider\impl\AbstractFieldValueProvider.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\index\provider\impl\UpperCaseProductNameValueProviderImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\index\service\impl\IndexServiceImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\index\service\IndexService.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\IndexConfiguration.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\provider\FieldNameProvider.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\provider\FieldNameResolver.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\provider\impl\AbstractFieldNameProvider.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\provider\impl\AbstractSortFieldNameProvider.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\provider\impl\ExternalIndexedProductProviderImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\provider\impl\FieldNameResolverImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\provider\impl\SortFieldNameResolverImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\provider\IndexedSourceProvider.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\provider\SortFieldNameProvider.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\provider\SortFieldNameResolver.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\repository\EsAdvancedSearchConfigRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\repository\EsBoostRuleRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\repository\EsFacetSearchConfigRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\repository\EsIndexConfigRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\repository\EsIndexedPropertyRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\repository\EsIndexRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\repository\EsPromotedItemRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\repository\EsSearchConfigRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\repository\EsServerConfigRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\repository\EsServerRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\repository\EsSortFieldRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\repository\EsSortRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\repository\EsStopWordRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\repository\EsSynonymConfigRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\repository\EsValueRangeRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\repository\EsValueRangeSetRepository.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\search\data\FilterQueryOperator.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\search\data\IndexFilterType.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\search\data\PageableData.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\search\data\SearchFilterQueryData.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\search\data\SearchQueryData.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\search\data\SearchQueryPageableData.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\search\data\SearchQueryTermData.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\search\data\SearchResponseWrapper.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\search\data\SuggestionQueryData.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\search\populator\SearchRequestPopulator.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\search\populator\SearchSourceBuilderBoostRulePopulator.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\search\populator\SearchSourceBuilderFacetPopulator.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\search\populator\SearchSourceBuilderPagingPopulator.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\search\populator\SearchSourceBuilderPromotedItemPopulator.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\search\populator\SearchSourceBuilderQueryPopulator.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\search\populator\SearchSourceBuilderSortPopulator.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\search\populator\SuggestionSearchRequestPopulator.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\search\populator\SuggestionSearchSourceBuilderSuggestionPopulator.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\search\service\impl\SearchServiceImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\search\service\SearchService.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\SearchConfiguration.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\SearchProperties.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\SearchSampleData.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\strategy\EsAggregationBuilderFactory.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\strategy\EsBoostRuleFilterBuilderFactory.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\strategy\EsFacetSearchConfigSelectionStrategy.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\strategy\EsFilterQueryBuilderFactory.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\strategy\EsIndexedPropertyGroupStrategy.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\strategy\impl\BruteForceEsFacetSearchConfigSelectionStrategyImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\strategy\impl\EsAggregationBuilderFactoryImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\strategy\impl\EsBoostRuleFilterBuilderFactoryImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\strategy\impl\EsFilterQueryBuilderFactoryImpl.java">
+</file>
+<file name="C:\Project\b2b\dmsi-search-new-nhan\restructure\b2bcore\commercesearch\src\main\java\digi\ecomm\commercesearch\strategy\impl\EsIndexedPropertyGroupStrategyImpl.java">
+</file>
+</checkstyle>

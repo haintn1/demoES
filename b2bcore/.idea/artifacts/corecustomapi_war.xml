@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="corecustomapi:war">
+    <output-path>$PROJECT_DIR$/corecustomapi/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>corecustomapi</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="api.war">
+      <element id="artifact" artifact-name="corecustomapi:war exploded" />
+    </root>
+  </artifact>
+</component>
